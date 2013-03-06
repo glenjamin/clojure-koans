@@ -25,7 +25,7 @@
 
   "Make a keyword with your keyboard"
   (= :foo (keyword "foo"))
- 
+ 
   "Symbolism is all around us"
   (= 'foo (symbol "foo"))
 
